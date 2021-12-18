@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define pii pair<int,int>
+#define f first
+#define s second
+#define pb push_back
+#define ll long long
+
+int main(){
+    int t; cin >> t;
+    while(t--){
+
+    }
+    return 0;
+}
